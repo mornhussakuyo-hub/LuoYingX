@@ -8,4 +8,4 @@
 
 ## 源码说明
 
-本项目闭源，All rights reserved。本仓库仅用于项目介绍与安装包分发，不提供源代码；安装包发布不代表授予源代码使用许可。
+本项目闭源，All rights reserved。
